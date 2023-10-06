@@ -1,0 +1,15 @@
+.sub {
+  border: 1px solid black;
+  padding: 20px;
+}
+.main {
+  display: flex;
+}
+h2 {
+  cursor: pointer;
+}
+
+.eachPost {
+  border: 1px solid black;
+  padding: 10px;
+}
